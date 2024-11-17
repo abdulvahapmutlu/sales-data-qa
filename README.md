@@ -77,7 +77,7 @@ Feel free to submit pull requests or open issues for any suggestions or improvem
 
 ---
 
-## 💬 Acknowledgments
+## Acknowledgments
 - ChromaDB: For vector storage.
 - HuggingFace: For providing state-of-the-art language models.
 - LangChain: For seamless integration of retrieval-augmented generation pipelines.
